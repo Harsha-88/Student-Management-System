@@ -47,7 +47,7 @@ student-management/
 
 How to Run
 Clone the repo:
-git clone https://github.com/your-username/student-management.git
+git clone https://github.com/Harsha-88/student-management.git
 
 Open the project in IntelliJ (or any Java IDE).
 
